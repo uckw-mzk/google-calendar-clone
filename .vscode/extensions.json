@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "oouo-diogo-perdigao.docthis",
+    "wmaurer.change-case",
+    "streetsidesoftware.code-spell-checker",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "ms-vsliveshare.vsliveshare",
+    "takumii.markdowntable",
+    "esbenp.prettier-vscode"
+  ]
+}
